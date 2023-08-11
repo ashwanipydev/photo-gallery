@@ -84,3 +84,5 @@ These are the main JavaScript topics covered in the provided project. It involve
     - The button is displayed again, and the gallery is hidden.
 
 This code demonstrates the process of fetching images from the Unsplash API based on user input, handling errors, and dynamically updating the UI with the fetched images or error messages. It utilizes various JavaScript concepts and techniques to achieve this functionality.
+## live Demo
+[Photo Gallery](https://ashwanipydev.github.io/photo-gallery/)
